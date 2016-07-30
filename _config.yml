@@ -13,7 +13,7 @@ author: Sitaram Shelke
 # edit this section with your information
 # biomadeira.github.io - all contents run on /vitae/
 # for a normal use at the base of the server change it to "/"
-baseurl: /resume/
+baseurl: /
 title: Sitaram's Resume
 name: Sitaram Shelke
 email: sitaramshelke@gmail.com
